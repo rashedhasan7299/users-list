@@ -1,0 +1,161 @@
+[{
+    "id": 1,
+    "first_name": "Zacharie",
+    "last_name": "McDougall",
+    "email": "zmcdougall0@usnews.com",
+    "gender": "Male",
+    "annual_salary": 52677,
+    "photo": "https://randomuser.me/api/portraits/men/13.jpg"
+}, {
+    "id": 2,
+    "first_name": "Garold",
+    "last_name": "Castelow",
+    "email": "gcastelow1@nba.com",
+    "gender": "Male",
+    "annual_salary": 44437,
+    "photo": "https://randomuser.me/api/portraits/men/33.jpg"
+}, {
+    "id": 3,
+    "first_name": "Alena",
+    "last_name": "O'Luney",
+    "email": "aoluney2@kickstarter.com",
+    "gender": "Female",
+    "annual_salary": 91632,
+    "photo": "https://randomuser.me/api/portraits/women/15.jpg"
+}, {
+    "id": 4,
+    "first_name": "Janela",
+    "last_name": "Sedman",
+    "email": "jsedman3@tamu.edu",
+    "gender": "Female",
+    "annual_salary": 43084,
+    "photo": "https://randomuser.me/api/portraits/women/20.jpg"
+}, {
+    "id": 5,
+    "first_name": "Nicolas",
+    "last_name": "McTear",
+    "email": "nmctear4@plala.or.jp",
+    "gender": "Male",
+    "annual_salary": 94877,
+    "photo": "https://randomuser.me/api/portraits/men/19.jpg"
+}, {
+    "id": 6,
+    "first_name": "Danell",
+    "last_name": "Lanchbury",
+    "email": "dlanchbury5@ucoz.com",
+    "gender": "Female",
+    "annual_salary": 61023,
+    "photo": "https://randomuser.me/api/portraits/women/23.jpg"
+}, {
+    "id": 7,
+    "first_name": "Crawford",
+    "last_name": "Petrussi",
+    "email": "cpetrussi6@creativecommons.org",
+    "gender": "Male",
+    "annual_salary": 57184,
+    "photo": "https://randomuser.me/api/portraits/men/20.jpg"
+}, {
+    "id": 8,
+    "first_name": "Ronald",
+    "last_name": "Freezor",
+    "email": "rfreezor7@examiner.com",
+    "gender": "Male",
+    "annual_salary": 83784,
+    "photo": "https://randomuser.me/api/portraits/men/12.jpg"
+}, {
+    "id": 9,
+    "first_name": "Marlo",
+    "last_name": "Lowrance",
+    "email": "mlowrance8@huffingtonpost.com",
+    "gender": "Male",
+    "annual_salary": 93586,
+    "photo": "https://randomuser.me/api/portraits/men/22.jpg"
+}, {
+    "id": 10,
+    "first_name": "Blondelle",
+    "last_name": "Buddle",
+    "email": "bbuddle9@discovery.com",
+    "gender": "Female",
+    "annual_salary": 59177,
+    "photo": "https://randomuser.me/api/portraits/women/24.jpg"
+}, {
+    "id": 11,
+    "first_name": "Odessa",
+    "last_name": "Knowlman",
+    "email": "oknowlmana@a8.net",
+    "gender": "Female",
+    "annual_salary": 74210,
+    "photo": "https://randomuser.me/api/portraits/women/25.jpg"
+}, {
+    "id": 12,
+    "first_name": "Henrietta",
+    "last_name": "Janjic",
+    "email": "hjanjicb@statcounter.com",
+    "gender": "Female",
+    "annual_salary": 40440,
+    "photo": "https://randomuser.me/api/portraits/women/16.jpg"
+}, {
+    "id": 13,
+    "first_name": "Gussi",
+    "last_name": "Mowday",
+    "email": "gmowdayc@jigsy.com",
+    "gender": "Female",
+    "annual_salary": 76366,
+    "photo": "https://randomuser.me/api/portraits/women/27.jpg"
+}, {
+    "id": 14,
+    "first_name": "Adela",
+    "last_name": "Thurby",
+    "email": "athurbyd@senate.gov",
+    "gender": "Female",
+    "annual_salary": 80633,
+    "photo": "https://randomuser.me/api/portraits/women/28.jpg"
+}, {
+    "id": 15,
+    "first_name": "Archambault",
+    "last_name": "Rozet",
+    "email": "arozete@amazon.co.uk",
+    "gender": "Male",
+    "annual_salary": 64442,
+    "photo": "https://randomuser.me/api/portraits/men/26.jpg"
+}, {
+    "id": 16,
+    "first_name": "Geraldine",
+    "last_name": "Muldrew",
+    "email": "gmuldrewf@wordpress.org",
+    "gender": "Female",
+    "annual_salary": 99980,
+    "photo": "https://randomuser.me/api/portraits/women/28.jpg"
+}, {
+    "id": 17,
+    "first_name": "Sheena",
+    "last_name": "Rugge",
+    "email": "sruggeg@accuweather.com",
+    "gender": "Female",
+    "annual_salary": 41135,
+    "photo": "https://randomuser.me/api/portraits/women/29.jpg"
+}, {
+    "id": 18,
+    "first_name": "Sven",
+    "last_name": "Rock",
+    "email": "srockh@army.mil",
+    "gender": "Male",
+    "annual_salary": 40649,
+    "photo": "https://randomuser.me/api/portraits/men/27.jpg"
+}, {
+    "id": 19,
+    "first_name": "Luz",
+    "last_name": "MacDonagh",
+    "email": "lmacdonaghi@odnoklassniki.ru",
+    "gender": "Female",
+    "annual_salary": 63712,
+    "photo": "https://randomuser.me/api/portraits/women/14.jpg"
+}, {
+    "id": 20,
+    "first_name": "Kerry",
+    "last_name": "Decort",
+    "email": "kdecortj@t-online.de",
+    "gender": "Male",
+    "annual_salary": 53143,
+    "photo": "https://randomuser.me/api/portraits/men/14.jpg"
+}]
