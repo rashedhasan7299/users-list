@@ -39,6 +39,16 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
+This project is a personal project for me to practice React Bootstrap.
+
+Used Bootstrap components and few classes here to design the web app.
+
+The random data was generated using https://www.mockaroo.com/
+
+Pictures was generated from https://randomuser.me/
+
+This is a simple app to add team members and see the sum of their annual salary
+
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
